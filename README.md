@@ -25,4 +25,4 @@ This repository contains another practice work on data preparation and basic dat
 ![image alt](https://github.com/aaliyeah/sales_ibm/blob/516bc8694f011ca8aaa81f31501a0bdcd590cab1/Raw%20File.jpg)
 
 # Conclusion:
-BMW maintained a large total sales base over 2010–2024, but growth has been almost flat (0.28% CAGR). Asia and Europe are the strongest regions, with the 7 Series, X1, and 3 Series driving sales. 70% of the sales falls as a low sales classification which indicates a less than 7,000 sales volume, and 30% as high classification which attained higher sales volume from the mentioned number. Base on the output, the goal of the project has been obtained.
+BMW maintained a large total sales base over 2010–2024, but growth has been almost flat (0.28% CAGR: Compound Annual Growth Rate). Asia and Europe are the strongest regions, with the 7 Series, I8, and X1 driving sales. 70% of the sales falls as a low sales classification which indicates a less than 7,000 sales volume, and 30% as high classification which attained higher sales volume from the mentioned number. Base on the output, the goal of the project has been obtained.
