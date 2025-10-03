@@ -16,7 +16,7 @@ This repository contains another practice work on data preparation and basic dat
 
 # Screenshots of the Project:
 - Dashboard
-![image alt](https://github.com/aaliyeah/sales_ibm/blob/516bc8694f011ca8aaa81f31501a0bdcd590cab1/Dashboard.jpg)
+![image alt](https://github.com/aaliyeah/sales_ibm/blob/85eb2b6b22b3b26346670b3bc4dc9286d81f6db1/Dashboard.jpg)
 - Pivot Table
 ![image alt](https://github.com/aaliyeah/sales_ibm/blob/516bc8694f011ca8aaa81f31501a0bdcd590cab1/Pivot%20Table.jpg)
 - Table
